@@ -1,2 +1,1 @@
-Lista Vetor
-lista de exercicios RA
+Lista de exercicios Vetor RA
